@@ -1,4 +1,6 @@
 <h1>Sistema de Registros</h1>
 
+- Realizacion de proyecto en construccion
 
-Prueba de realizacion de un repositorio
+Para ejecutar el sistema debes de poner:
+``` npm install react```
